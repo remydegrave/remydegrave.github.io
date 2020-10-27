@@ -1,0 +1,8 @@
+.container-fluid{
+    background-size: 1600px 2500px;
+    background-image: url(../image/sky4.jpg);
+    font-family: 'Courier New', Courier, monospace;
+}
+.colorbg{
+    background-color: #1c2227;
+}
