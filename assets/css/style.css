@@ -1,12 +1,37 @@
-.container-fluid{
+.container-fluid {
+    /* taille de l'image. */
     background-size: 1575px 2200px;
+    /* mon image de fond pour toute ma page. */
     background-image: url(../image/sky4.jpg);
+    /* police de l'écriture. */
     font-family: 'Courier New', Courier, monospace;
 }
-.colorbg{
+
+.colorbg {
     background-color: #ffffff;
 }
-.icon{
+
+/* ma class contact. */
+.contact {
     width: 50px;
     height: 50px;
 }
+
+/* ma class portfolio. */
+.portfolio {
+    width: 200px;
+    height: 300px;
+}
+
+/* ma class pour tout mes icons. */
+.icon {
+    width: 150px;
+    height: 100px;
+}
+/* ma class pour ma photo du CV Numérique. */
+.photoCV {
+    width: 300px;
+    height: 400px;
+}
+
+
